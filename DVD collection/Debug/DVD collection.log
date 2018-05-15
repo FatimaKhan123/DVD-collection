@@ -1,0 +1,3 @@
+﻿  DVD collection.cpp
+c:\users\user\source\repos\dvd collection\dvd collection\dvdcollection.h(106): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  DVD collection.vcxproj -> c:\users\user\Source\Repos\DVD collection\Debug\DVD collection.exe
